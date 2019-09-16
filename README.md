@@ -1,8 +1,5 @@
 # Naive-Bayesian-Classifier
 
-朴素贝叶斯分类器
-本项目修改自https://github.com/lining0806/Naive-Bayes-Classifier
-由于项目使用需要对原项目内容作出修改并使用，侵删
 
 /**************以下内容来自于原项目README.md*************/
 
